@@ -42,31 +42,31 @@ Dependencies:
 
 ## 3. Process
 
-### 1. 初始状态
+### 1. Initial
 
 ![image-20220430003204620](README.assets/image-20220430003204620.png)
 
-### 2. 点赞确认
+### 2. Confirm
 
 ![image-20220430003241338](README.assets/image-20220430003241338.png)
 
-### 3. 等待处理
+### 3. Pending
 
 ![image-20220430003320112](README.assets/image-20220430003320112.png)
 
-### 4. 处理完毕，点赞完成
+### 4. Like finished
 
 ![image-20220430003410547](README.assets/image-20220430003410547.png)
 
-### 5. 取消点赞
+### 5. Unlike
 
 ![image-20220430003436979](README.assets/image-20220430003436979.png)
 
-### 6. 等待处理
+### 6. Pending
 
 ![image-20220430003459581](README.assets/image-20220430003459581.png)
 
-### 7. 取消点赞完毕
+### 7. Unlike finished
 
 ![image-20220430003628424](README.assets/image-20220430003628424-16512945608627.png)
 
